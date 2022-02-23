@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Countrey-miser, or, The Unhappy farmers dear market giving the true account of the rich farmer near Amsted in Essex who, with several others of his neighbour farmers, coming to Emsted market, where they endeavored to hold up the price of their corn to an extortionable rate, to the great oppression, especially of the poorer sort : missing of their expectations, the rich farmer, in a great passion, swore the Devil should have all his corn before he would take the honest price they offered him : upon which soon the Devil came to him in the shape of a countrey chap, and after some discourse, agreed to give him his extortionable price ... fearing he had sold his corn to the Devil, upon which, by the advice of his neighbors, Mr. R.K., a minister, was sent for, also, of his safe delivery from the hands of Satan by the special advice and directions of the said reverend divine.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34755</idno>
+            <idno type="STC">Wing C6562</idno>
+            <idno type="STC">ESTC R36053</idno>
+            <idno type="EEBO-CITATION">15598441</idno>
+            <idno type="OCLC">ocm 15598441</idno>
+            <idno type="VID">104024</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34755)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104024)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1589:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Countrey-miser, or, The Unhappy farmers dear market giving the true account of the rich farmer near Amsted in Essex who, with several others of his neighbour farmers, coming to Emsted market, where they endeavored to hold up the price of their corn to an extortionable rate, to the great oppression, especially of the poorer sort : missing of their expectations, the rich farmer, in a great passion, swore the Devil should have all his corn before he would take the honest price they offered him : upon which soon the Devil came to him in the shape of a countrey chap, and after some discourse, agreed to give him his extortionable price ... fearing he had sold his corn to the Devil, upon which, by the advice of his neighbors, Mr. R.K., a minister, was sent for, also, of his safe delivery from the hands of Satan by the special advice and directions of the said reverend divine.</title>
+               </titleStmt>
+               <extent>7, [1] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for N. Jackson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed according to order."</note>
+                  <note>Woodcut illustration of the satanic visitation on p. [1]</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Devil.</term>
+               <term>Apparitions.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104024:1" rendition="simple:additions"/>
+            <p>THE COUNTREY-MISER OR THE Unhappy Farmers DEAR MARKET.</p>
+            <p>Giving the true Account of the Rich Farmet near <hi>Emſted</hi> in <hi>Eſſex:</hi> Who with ſeveral others of his Neighbour Farmers, coming to <hi>Emſted</hi> Market, where they endeavoured to hold up the Price of their Corn to an Extortionable Rate, to the great Oppreſſion, eſpeci<g ref="char:EOLhyphen"/>ally of the Poorer ſort:</p>
+            <p>Miſſing of their Expectations, the Rich Farmer, in a great Paſſion, ſwore <hi>the Devil ſhould have all his Corn before he would take the honeſt price they offered him.</hi>
+            </p>
+            <p>Upon which, ſoon after the Devil came to him in the ſhape of a Countrey Chap, and after ſome Diſcourſe, agreed to give him his Extortionable Price, for Thirty Load, paying Five Pounds in hand, the Corn to be de<g ref="char:EOLhyphen"/>liver'd on a certain day.</p>
+            <p>Of the Corn in one of the Farmers Barns being Eaten up and Spoiled by a ſtrange ſort of Vermine.</p>
+            <p>In the mean time, the Farmer calling to Remembrance has Raſh Wiſh, was ſtrangely troubled in mind; fearing he had Sold his Corn to the Devil; upon which, by the Advice of his Neighbours, <hi>Mr. R. K.</hi> a Miniſter was ſent for. Alſo, of his ſafe Delivery from the hands of Satan by the ſpecial Advice and Directions of the ſaid Reverend Divine.</p>
+            <p>Licenſed according to Order.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>N. Jackſon</hi> in the <hi>Strand,</hi> 1693.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="2" facs="tcp:104024:2"/>
+            <head>A Full and True Account of a Far<g ref="char:EOLhyphen"/>mar at <hi>Emſted,</hi> who Sold the Devil Thirty Load of Wheat: Alſo of his ſafe Delivery from the Hands of Satan, by the Advice of a Reverend Divine.</head>
+            <p>AMongſt the many Remarkable Inſtan<g ref="char:EOLhyphen"/>ces we have had of the Almighties Diſpleaſure, towards thoſe who through there raſh Expreſſions and Proteſtations, have made themſelves liable to Gods Vengence, who tollerates <hi>Satan</hi> to be<g ref="char:EOLhyphen"/>come the powerful Inſtrument of making thoſe perſons the wicked Examples oftentimes of their paſſionate and haſty Imprecations, as a warning to others; How they become guilty of ſo dangerous a folly. And for a further Demonſtration of Gods peculiar notice of this perticular Crime. <hi>I ſhall give you a following Relation which is Iuſtified for an Inevi<g ref="char:EOLhyphen"/>table Truth, by many Creditable Perſons whoſe Reputable aſſertion of this matter, is ſufficent to eſtabliſh a belief amongſt all ſuch who are not Ob<g ref="char:EOLhyphen"/>ſtinately Incredulous.</hi>
+            </p>
+            <p>A Farmer living a ſmall diſtance from the Town of <hi>Emsted</hi> (whoſe Name for his Re<g ref="char:EOLhyphen"/>putations ſake we are deſired to forbear men<g ref="char:EOLhyphen"/>tioning) came about three weeks ago with a Load of Wheat, to <hi>Emſted</hi> Market with full hopes of diſpoſing of it, to a more then Or<g ref="char:EOLhyphen"/>dinary
+<pb n="3" facs="tcp:104024:2"/>advantage, Corn being riſen that week to an Extraordinary Price; which other Farmers as well as himſelf having a know<g ref="char:EOLhyphen"/>ledg off, who being all equally greedy of their gain brought a more then uſual quantity to Market, which the Buyers obſerving pru<g ref="char:EOLhyphen"/>dently reſolved to undermine their purpoſed Ends, which the unreaſonable Farmers to themſelves had made by biding an Indifferent Rate, hoping by that means they ſhould lower their Extravagant Price, and hinder them of that unreaſonable Exaction which they could not vindicate by pleading any manner of Ne<g ref="char:EOLhyphen"/>ceſſity <hi>(God be thanked)</hi> that and all other places in <hi>England,</hi> being Stor'd with a ſufficient plenty.</p>
+            <p>A perſon with an Intention to buy, coming to one Farmer above the reſt whoſe Name we ſhall omit for the Reaſons above menti<g ref="char:EOLhyphen"/>oned, and asking him the Price of this Corn he required an Extravagant Rate for it, at which the Buyer ſeem'd to be much ſurpriz'd, and bid him a Reaſonable Price, at which he expected it might be afforded with an anſwer<g ref="char:EOLhyphen"/>able profit. <hi>The Farmer in anſwer to this broke out into great Indignation,</hi> ſaying, <hi>the Devil ſhould have all the Corn he had, before any of his Grain ſhould he bought at ſo Ordinary a Rate,</hi> at which the Chapman went away to try if he could mend himſelf in ſome other part of the Market.</p>
+            <p>He had not been gone long, but another perſon came dreſt up in a Ruſty black Garb, having the appearance of an old Miſer, did ask him likewiſe the Price of his Corn, the
+<pb n="4" facs="tcp:104024:3"/>Farmer Immediately ſhews him a Sample of it, asking him the the ſame Rate as he had done the other; the old Gentleman ſeem'd to have great liking towards the Corn and bid him within a very ſmall matter of what he had required of him, and further requeſted of him what quantity he had in all of the ſame Corn by him, which he could Warrant to be full as good as that. <hi>The Farmer an<g ref="char:EOLhyphen"/>ſwered about thirty Load, which he would engage upon his Word ſhould fall no ways ſhort of that in goodneſs which he had already ſhow'd him.</hi> The old Gentleman replying he had an occaſion for ſuch a Parcel declairing if they could agree he would take it all off his hands, and give him five Prond carneſt for the whole Quantity before they parted.</p>
+            <p>The Farmer finding his Chapman had ſo great a likeing to his Corn, ſtill perſiſted in his Avaritious Inclinations and proteſted he would not bate any thing of the Price he had already asked him; <hi>to which the Buyer replyed he was a very hard and unreaſonable Dealer, but however ſince he ſaw his Grain was good and fit for his purpoſe, rather then go without he would give him his Price, and agree with him for the whole Quantity.</hi> Whereupon the Farmer was much pleaſed at his meeting with ſo generous a Chap<g ref="char:EOLhyphen"/>man, and deſired to drink his mornings draught with him, <hi>(to which they both agreed)</hi> and went to the Red-Lyon where they drank two Tankards of Ale very amicably toge<g ref="char:EOLhyphen"/>ther, after which the Chapman according to his Propoſals gave him five Pound Earneſt,
+<pb n="5" facs="tcp:104024:3"/>and appointed a day when the Corn ſhould be got ready, and he would then pay him the reſt of his Mony, and bring his Teems in Order to Clear the Barn, this being fully a<g ref="char:EOLhyphen"/>greed on by both Parties, they parted wiſhing one another much happineſs till their next meeting.</p>
+            <p>The Farmar for the preſent being well pleaſed with the thoughts of the advantage, he propoſed by ſo good a bargain quitted the Market, and returned home with his Corn well ſatisfied till the next day taking the mat<g ref="char:EOLhyphen"/>ter into his more ſerious Conſideration, began to wonder who this Perſon ſhould be who had given ſo generous a Price for his whole ſtock, wondering <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> before he had never ſeen him in the Market; from theſe Conſiderations ſprang a great many doubts and jealouſies which en<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>aſed every moment till it brought him under great diſſatisfaction of mind, renewing in his memory the raſh Inconſide<g ref="char:EOLhyphen"/>rate Expreſſions he had uſed in the Market, <hi>(viz.) that the Devil ſhould have his Corn before he would abate any thing of his Price.</hi> From whence he concluded it was the <hi>Devil</hi> who had made this agreement with him, which dreadful apprehenſions brought him under great trouble and diſcontent. Inſomuch that his Neighbours took great notice of the Al<g ref="char:EOLhyphen"/>teration it had cauſed in him, and began ſtrictly to examine into the Occaſion of that great ſorrow with which he ſeem'd to be afflicted, till at laſt their importunate inquiries prevailed with him to declare the Reaſons of
+<pb n="6" facs="tcp:104024:4"/>his diſcompoſure who was immediately ad<g ref="char:EOLhyphen"/>viſed to ſend for a Parſon from <hi>Emſted,</hi> a Gentleman Eminent for his Learning and Piety, and conſult with him what was moſt proper to be done in this matter, accordingly a Meſſenger was diſpatch'd, who return'd with all expedition with the Parſon, who hearing the dangerous circumſtances the Far<g ref="char:EOLhyphen"/>mer by his unwary words had brought him<g ref="char:EOLhyphen"/>ſelf under, adviſed him to be very careful in the punctual performance of his Bargan; for that if he deviated one Title from his agreement, it would certainly give the <hi>Devil</hi> power over him, whereupon great care was taken that the Corn ſhould be finely dreſt and order'd, with the greateſt nicety Imaginable, and got in a Compleat Readineſs Exactly againſt the time, which the <hi>Devil</hi> had ap<g ref="char:EOLhyphen"/>pointed.</p>
+            <p>A perſon taking upon him <hi>(who was reported to be a Conjurer)</hi> to be ready in the Barn to deliver the Corn to the <hi>Devil</hi> when he ſhould come for it. During which Intermin the Farmer was adviſed to keep his Bed, the Par<g ref="char:EOLhyphen"/>ſon and ſome of the moſt Pious of his Neigh<g ref="char:EOLhyphen"/>bours, offering up their Prayers with him to <hi>Almighty God, to preſerve and protect him from the power of Satan, with whom he had contracted ſo dangerous a Bargain.</hi>
+            </p>
+            <p>A little before the Devils appearance the Wind began to riſe and Agitate it ſelf into a violent motion: the Sky became darken'd on a ſuddain, and a lowring Cloud began to make its progreſs towards the Farmers Houſe, ſhew<g ref="char:EOLhyphen"/>ing
+<pb n="7" facs="tcp:104024:4"/>all the diſmal ſigns of Horror and Confu<g ref="char:EOLhyphen"/>ſion; one part of it deſcending amongſt ſome Trees a little diſtance from the Barn, from whence was heard an amazing clap of Thun<g ref="char:EOLhyphen"/>der, and immediately was ſeen two Black Teems of Monſtruous Cattle, drawing two large Waggons towards the Barn; Hurrying on with great Expedition, attended by Four ill ſhap'd Drivers of a <hi>Gygantick Magnitude,</hi> and in the foremoſt Waggon ſat he that made the Bargain, who when he came to the Barn, de<g ref="char:EOLhyphen"/>manded <hi>where was the Farmer?</hi> the <hi>Conjuror</hi> re<g ref="char:EOLhyphen"/>plying, he was not to be ſpoke with, but that the Corn was ready, upon which the Devil taking ſtrict notice could not make any man<g ref="char:EOLhyphen"/>ner of Objection; but with an angry Counte<g ref="char:EOLhyphen"/>nance laid down the Remainder of his Money, took up his Corn, and hurried on his Waggons, as if the Devil drove them.</p>
+            <p>Since this we hear, moſt of the Corn in an<g ref="char:EOLhyphen"/>other Barn (belonging to ſame Farmar) has been eaten up or ſpoiled by a ſtrange ſort of Vermine.</p>
+            <p>Whoever doubts the Truth of what is here inſerted, if they will trouble themſelves to en<g ref="char:EOLhyphen"/>quire of any of the <hi>Emſted</hi> Carriers, they may receive from them a Confirmation of this matter for their further ſatisfaction.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="illustration">
+            <pb facs="tcp:104024:5"/>
+            <p>
+               <figure>
+                  <figDesc>a man held in a chair by four other men while the devil watches from behind a curtain</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:104024:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
